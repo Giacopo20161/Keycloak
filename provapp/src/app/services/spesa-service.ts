@@ -12,7 +12,7 @@ export class SpesaService {
   private keycloak = inject(Keycloak);
 
   //ricordate di aprire la porta del server
-  private baseUrl = 'https://effective-capybara-7v4rgp7q97442rp5p-5000.app.github.dev'
+  private baseUrl = 'https://jubilant-space-guacamole-jjrqxpwp4vxrhq9pp-5000.app.github.dev'
 
   //ci serve per allegare il token ad ogni
   //richiesta http
